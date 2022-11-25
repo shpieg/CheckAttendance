@@ -8,6 +8,6 @@ namespace CheckAttendance.Sevices
 {
     public class Obecnosc : IAttnendant
     {
-        public string Name => "Michals";
+        public string Name => "Michal";
     }
 }
