@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CheckAttendance.Sevices
 {
-    internal class Class1
+    public class AddAttendant: IAttnendant
     {
+        public string Name => " martinezxcv";
     }
+        
 }
