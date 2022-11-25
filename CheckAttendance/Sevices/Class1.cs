@@ -9,5 +9,6 @@ namespace CheckAttendance.Sevices
     internal class Test1 : IAttnendant
     {
         public string Name => "KB";
+
     }
 }
