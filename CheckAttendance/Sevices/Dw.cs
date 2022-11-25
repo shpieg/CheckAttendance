@@ -8,7 +8,7 @@ namespace CheckAttendance.Sevices
 {
     public class Dw : IAttnendant
     {
-        public string Name => "DawidW";
+        public string Name => "DawidWo";
 
 
     }
